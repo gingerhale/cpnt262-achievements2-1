@@ -3,6 +3,7 @@
 - Comma-separated list 
 - Haley Dickson
 - GH Pages:
+
 Atrributes
 - Eli did me a solid and helped me figure out the ordering of the loop!!
 
